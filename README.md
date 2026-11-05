@@ -1,3 +1,16 @@
+<!-- MINDSLAB-PAPER-METADATA:START -->
+# G-Substrate
+
+**Paper:** Graph is a Substrate Across Data Modalities
+
+**Authors:** Ziming Li, Xiaoming Wu, Zehong Wang, Jiazheng Li, Yijun Tian, Jinhe Bi, Yunpu Ma, Yanfang Ye, Chuxu Zhang
+
+**Paper link:** [2601.22384](https://arxiv.org/abs/2601.22384)
+
+<!-- MINDSLAB-PAPER-METADATA:END -->
+
+---
+
 # G-Substrate: Graph is a Substrate Across Data Modalities
 
 <p align="center">
